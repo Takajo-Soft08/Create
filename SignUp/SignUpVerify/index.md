@@ -44,7 +44,7 @@
       <input type="submit" value="Enter" onClick="verify()">
       <script>
 	function verify(){
-	location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/SignUp/SignUpVerify/SignUpSuccessful/signupSuccessful.html";
+	location.href = "https://takajo-soft08.github.io/Create/SignUp/SignUpVerify/SignUpSucceed/";
 	}
       </script>
     </div>
