@@ -43,38 +43,7 @@
     </script>
     
     <hr>
-    <div align="center">
-      <table border="0">
-        <form action="list.html" method="get"></form>
-        <tbody>
-	  <tr>
-            <th>
-              User_ID:
-            </th>
-            <td>
-              <input type="text" name="user_id" value="" size="24">
-            </td>
-          </tr>
-          <tr>
-            <th>
-              Password:
-            </th>
-            <td>
-              <input type="password" name="password" value="" size="24">
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2" align="center">
-              <input type="submit" value="Enter" onClick="mainJump()">
-	      <script>
-		function mainJump(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPage/";
-		}
-	      </script>            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+ 
     <div align="center">
     <form name="form1" id="id_form1" action="">
 	    User_ID :
