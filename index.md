@@ -14,7 +14,7 @@
     </div>
     <script>
       function Subsclibe(){
-      location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/SignUp/signup.html";      
+      location.href = "https://takajo-soft08.github.io/Create/SignUp/";      
       }
     </script>
     
