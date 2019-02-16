@@ -8,7 +8,7 @@
 		target1.innerText=document.forms.id_form1.id_textBox1.value;
 		target2=document.getElementById("output2");
 		target2.innerText=document.forms.id_form1.id_textBox2.value;
-		if(target1.innerText != "" || target2.innerText != ""){
+		if(target1.innerText != "" && target2.innerText != ""){
 		if(target1.innerText == "user" && target2.innerText == "password")
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/";
 		else window.alert('User_ID、またはPasswordが間違っています。');
@@ -41,9 +41,8 @@
 	    <input name="textBox2" id="id_textBox2" type="text" value="" /><br>
 	    <input type="button" value="Enter" onClick="onButtonClick();"/>
 	</form>
-	
 	<div id="output1"></div>
-	<div id="output2"></div>
+	<div id="output2"></div>hgh
 	
 	</div>
   </body>
