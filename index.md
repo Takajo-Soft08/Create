@@ -44,7 +44,7 @@
               <input type="submit" value="Enter" onClick="mainJump()">
 	      <script>
 		function mainJump(){
-		location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/mainpage.html";
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/";
 		}
 	      </script>            </td>
           </tr>
