@@ -78,7 +78,7 @@
 	      </div>
 	      <script>
 		function list(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";
 		}
 	      </script>     
             </td>
