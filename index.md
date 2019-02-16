@@ -2,16 +2,33 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Login (Book Management)</title>
+	<script type="text/javascript" language="javascript">
+		  function onButtonClick(){
+		target1=document.getElementById("output");
+		target1.innerText=document.forms.id_form1.id_textBox1.value;
+		target2=document.getElementById("output");
+		target2.innerText=document.forms.id_form1.id_textBox2.value;
+		
+		}
+	  </script>
+		
+		
   </head>
 
   <body>
     <div align="center">
       <h1>Log_In (Book Management)</h1>
     </div>
-    
+    <form name="form1" id="id_form1" action="" align="center">
+	    <input name="textBox1" id="id_textBox1" type="text" value="" /><br>
+	    <input name="textBox2" id="id_textBox2" type="text" value="" /><br>
+	    <input type="button" value="Enter" onClick="onButtonClick();"/>
+	</form>
+	<div id="output"></div>
     <div align="right">
       <input type="submit" value="新規登録" onClick="Subsclibe()">
     </div>
+	
     <script>
       function Subsclibe(){
       location.href = "https://takajo-soft08.github.io/Create/SignUp/";      
