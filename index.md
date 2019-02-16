@@ -8,6 +8,7 @@
 		target1.innerText=document.forms.id_form1.id_textBox1.value;
 		target2=document.getElementById("output2");
 		target2.innerText=document.forms.id_form1.id_textBox2.value;
+		window.alert('end');
 		}
 	  </script>
   </head>
@@ -37,8 +38,8 @@
 	    <input name="textBox2" id="id_textBox2" type="text" value="" /><br>
 	    <input type="button" value="Enter" onClick="onButtonClick();"/>
 	</form>
-	<font color="white"><div id="output1"></div></font>
-	<font color="white"><div id="output2"></div></font>
+	<div id="output1"></div>
+	<div id="output2"></div>
 	</div>
   </body>
 </html>
