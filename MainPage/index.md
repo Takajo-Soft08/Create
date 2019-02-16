@@ -30,7 +30,7 @@
 	      </div>
 	      <script>
 		function rend(){
-		location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/Lend/lendMain.html";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Lend/";      
 		}
 	      </script>     
             </td>
@@ -46,7 +46,7 @@
 	      </div>
 	      <script>
 		function rend1(){
-		location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/Return/returnMain.html";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Return/";      
 		}
 	      </script>     
             </td>
@@ -62,7 +62,7 @@
 	      </div>
 	      <script>
 		function booking(){
-		location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/Booking/bookingMain.html";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Booking/";      
 		}
 	      </script>     
             </td>
@@ -78,7 +78,7 @@
 	      </div>
 	      <script>
 		function list(){
-		location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/List/listMain.html";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";      
 		}
 	      </script>     
             </td>
@@ -94,7 +94,7 @@
 	      </div>
 	      <script>
 		function record(){
-		location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/Record/record.html";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Record/";      
 		}
 	      </script>     
             </td>
