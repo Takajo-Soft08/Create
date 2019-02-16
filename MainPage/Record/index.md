@@ -58,7 +58,7 @@
     </div>
     <p></p>
     <div align="center">
-      <a href="file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/mainpage.html">_Back_To_Home_</a>
+      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
     </div>
 
   
