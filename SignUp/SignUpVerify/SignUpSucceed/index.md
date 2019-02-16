@@ -20,7 +20,7 @@
           </tr>
 	  <tr>
             <th>
-	      <a href="file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/login.html">_Back_To_Home_</a>
+	      <a href="https://takajo-soft08.github.io/Create/">_Back_To_Home_</a>
             </th>
           </tr>
         </tbody>
