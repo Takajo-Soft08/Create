@@ -9,10 +9,10 @@
 		target2=document.getElementById("output2");
 		target2.innerText=document.forms.id_form1.id_textBox2.value;
 	
-		if(target1.innerText == "user" && target2.innerText == "password")
+		if(target1.innerText == "user" && target2.innerText == "password"){
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/";
-		else
-		window.alert('User_ID、またはPasswordが間違っています。');
+		}
+		else{ window.alert('User_ID、またはPasswordが間違っています。');}
 		}
 		</script>
   </head>
