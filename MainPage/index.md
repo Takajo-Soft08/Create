@@ -70,16 +70,14 @@
 	      貸出中の図書の予約を行います。
 	    </th>
 	  </tr>
-	
-	  
 	  
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="登録図書一覧" onclick="list()">
+		<input type="submit" value="登録図書一覧" onclick="list1()">
 	      </div>
 	      <script>
-		function list(){
+		function list1(){
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";
 		}
 	      </script>     
@@ -89,10 +87,6 @@
 	    </th>
 	  </tr>
 	  
-	  
-	  
-	  
-
 	  <tr>
             <td>
 	      <div align="center">
