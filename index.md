@@ -15,7 +15,6 @@
 		else
 		window.alert('User_ID、またはPasswordが間違っています。');
 		}
-		
 		else
 		window.alert('User_ID、またはPasswordを必ず記入してください。');
 		
