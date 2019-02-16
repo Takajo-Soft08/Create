@@ -5,7 +5,7 @@
     <!--
             //指定のページに移動
     function loc() {
-location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/Lend/lendSuccess/LendSuccess.html";
+location.href = "https://takajo-soft08.github.io/Create/MainPage/Lend/LendSucceed/";
     }
             //タイマーをセット
     function tm(){
