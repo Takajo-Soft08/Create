@@ -43,8 +43,10 @@
 	    <input name="textBox2" id="id_textBox2" type="text" value="" /><br>
 	    <input type="button" value="Enter" onClick="onButtonClick();"/>
 	</form>
+	<!--
 	<div id="output1"></div>
 	<div id="output2"></div>
+	-->
 	</div>
   </body>
 </html>
