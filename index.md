@@ -9,6 +9,7 @@
 		target2=document.getElementById("output2");
 		target2.innerText=document.forms.id_form1.id_textBox2.value;
 		window.alert('end');
+		location.href = "https://takajo-soft08.github.io/Create/";
 		}
 	  </script>
   </head>
