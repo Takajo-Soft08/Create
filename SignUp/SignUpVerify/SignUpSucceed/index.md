@@ -32,5 +32,5 @@
 <!--
       <p>You’ve successfully registered.</p>
       <p></p>
-      <p><a href="https://www.google.com">_Back_To_Home_</a></p>  
+      <p><a href="https://takajo-soft08.github.io/Create/">_Back_To_Home_</a></p>  
 -->
