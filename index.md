@@ -66,7 +66,9 @@
     </div>
     <div align="center">
     <form name="form1" id="id_form1" action="">
+	    User_ID:
 	    <input name="textBox1" id="id_textBox1" type="text" value="" /><br>
+	    Password:
 	    <input name="textBox2" id="id_textBox2" type="text" value="" /><br>
 	    <input type="button" value="Enter" onClick="onButtonClick();"/>
 	</form>
