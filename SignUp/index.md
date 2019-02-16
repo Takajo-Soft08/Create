@@ -6,7 +6,7 @@
 
   <body>
     <div align="center">
-      <h1>Sign_Up</h1>
+      <h1>新規登録情報入力</h1>
     </div>
     
     <hr>
