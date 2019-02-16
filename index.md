@@ -3,11 +3,12 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Login (Book Management)</title>
 	<script type="text/javascript" language="javascript">
-		  function onButtonClick(){
+		function onButtonClick(){
 		target1=document.getElementById("output1");
 		target1.innerText=document.forms.id_form1.id_textBox1.value;
 		target2=document.getElementById("output2");
 		target2.innerText=document.forms.id_form1.id_textBox2.value;
+		if(target1.innerText == "" || target2.innerText == ""){
 		if(target1.innerText == "user" && target2.innerText == "password"){
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/";
 		}
