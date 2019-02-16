@@ -80,7 +80,7 @@
 	      </div>
 	      <script>
 		function list(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPage/Listing/";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";      
 		}
 	      </script>     
             </td>
