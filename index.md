@@ -8,7 +8,7 @@
 		target1.innerText=document.forms.id_form1.id_textBox1.value;
 		target2=document.getElementById("output2");
 		target2.innerText=document.forms.id_form1.id_textBox2.value;
-		
+		}
 	  </script>
   </head>
 
