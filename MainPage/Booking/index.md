@@ -29,7 +29,7 @@
       <input type="submit" value="Enter" onClick="success()">
       <script>
 	function success(){
-	location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/MainPage/Booking/BookingSuccess/bookingSuccess.html";
+	location.href = "https://takajo-soft08.github.io/Create/MainPage/Booking/BookingSucceed/";
 	}
       </script>
     </div>
