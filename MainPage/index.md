@@ -86,6 +86,28 @@
 	      登録されている図書の一覧になります。	      
 	    </th>
 	  </tr>
+	  
+	  
+	  
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="登録図書一覧" onclick="list()">
+	      </div>
+	      <script>
+		function list(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      登録されている図書の一覧になります。
+	    </th>
+	  </tr>
+	  
+	  
+	  
+	  
 
 	  <tr>
             <td>
