@@ -11,10 +11,8 @@
 		if(target1.innerText == "" || target2.innerText == ""){
 		if(target1.innerText == "user" && target2.innerText == "password")
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/";
-		
 		else window.alert('User_ID、またはPasswordが間違っています。');
 		}else window.alert('User_ID、またはPasswordは必ず記入してください。');
-		
 		</script>
   </head>
 
@@ -35,8 +33,7 @@
     </script>
     
     <hr>
- さ
-    <div align="center">
+   <div align="center">
     <form name="form1" id="id_form1" action="">
 	    User_ID :
 	    <input name="textBox1" id="id_textBox1" type="text" value="" /><br>
@@ -44,10 +41,10 @@
 	    <input name="textBox2" id="id_textBox2" type="text" value="" /><br>
 	    <input type="button" value="Enter" onClick="onButtonClick();"/>
 	</form>
-	<!--
+	
 	<div id="output1"></div>
 	<div id="output2"></div>
-	-->
+	
 	</div>
   </body>
 </html>
