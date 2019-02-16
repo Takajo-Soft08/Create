@@ -24,7 +24,7 @@ location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/1
     </div>
     <script>
       function logOut(){
-      location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/login.html";      
+      location.href = "https://takajo-soft08.github.io/Create/";      
       }
     </script>
     <hr>
