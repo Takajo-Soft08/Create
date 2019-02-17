@@ -8,7 +8,14 @@
     <div align="center">
       <h1>パスワード変更完了</h1>
     </div>
-    
+      <div align="right">
+      <input type="submit" value="ログアウト" onclick="logOut()">
+    </div>
+    <script>
+      function logOut(){
+      location.href = "https://takajo-soft08.github.io/Create/";      
+      }
+    </script>
     <hr>
     <div align="center">
       <table border="0">
@@ -21,7 +28,7 @@
           </tr>
 	  <tr>
             <th>
-	      <a href="https://takajo-soft08.github.io/Create/">_Back_To_Home_</a>
+	      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
             </th>
           </tr>
         </tbody>
