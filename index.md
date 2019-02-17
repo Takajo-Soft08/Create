@@ -3,14 +3,30 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Login (Book Management)</title>
 	<script type="text/javascript" language="javascript">
-		function onButtonClick(){
-		target1=document.getElementById("output1");
-		target1.innerText=document.forms.id_form1.id_textBox1.value;
-		target2=document.getElementById("output2");
-		target2.innerText=document.forms.id_form1.id_textBox2.value;
-		window.alert('success');
-		location.href = "https://takajo-soft08.github.io/Create/MainPage/";
-		}
+		<!--
+function click(){        
+        var flagNULL=0;
+        if(document.form1.field1.value==""){
+            flagNULL=1;
+        }
+        else if(document.form1.field2.value==""){
+            flagNULL=1;
+        }
+
+        var flagERROR=0;
+        if(document.form1.field1.value!="user"){
+            flagERROR=1;
+        }
+        else if(document.form1.field2.value!="password"){
+            flagERROR=1;
+        }
+	if(flagNULL){
+	window.alert('User_ID、またはPasswordは必ず記入してください。');
+	}
+	else if(flagERROR){
+	window.alert('User_ID、またはPasswordが間違っています。');
+	}
+	else{
 	  </script>
   </head>
 
@@ -26,7 +42,7 @@
 	
     <script>
       function Subsclibe(){
-      location.href = "https://takajo-soft08.github.io/Create/SignUp/";      
+      -soft08.github.io/Create/SignUp/";      
       }
     </script>
     
