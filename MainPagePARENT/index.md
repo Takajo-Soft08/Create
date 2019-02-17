@@ -47,4 +47,64 @@
 	      </div>
 	      <script>
 		function rend1(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Return/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      図書の返却を行います。
+	    </th>
+	  </tr>
+
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="予約処理" onclick="booking()">
+	      </div>
+	      <script>
+		function booking(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Booking/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      貸出中の図書の予約を行います。
+	    </th>
+	  </tr>
+	  
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="登録図書一覧" onclick="list1()">
+	      </div>
+	      <script>
+		function list1(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";
+		}
+	      </script>     
+            </td>
+	    <th>
+	      登録されている図書の一覧になります。
+	    </th>
+	  </tr>
+	  
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="貸借履歴" onclick="record()">
+	      </div>
+	      <script>
+		function record(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Record/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      これまでに貸借した本の一覧になります。
+	    </th>
+	  </tr>
+	  
+        </tbody>
+      </table>
+		
 		
