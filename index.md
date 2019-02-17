@@ -27,6 +27,7 @@ function click(){
 	window.alert('User_ID、またはPasswordが間違っています。');
 	}
 	else{ location.href = "https://takajo-soft08.github.io/Create/MainPage/";}
+	}
 	-->
 	  </script>
   </head>
