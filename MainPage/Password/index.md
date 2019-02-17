@@ -69,7 +69,7 @@
     </div>
 
     <div align="right">
-      <a href="https://takajo-soft08.github.io/Create/">_Back_To_Home_</a>
+      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
     </div>
 
   </body>
