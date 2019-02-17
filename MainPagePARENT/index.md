@@ -106,5 +106,15 @@
 	  
         </tbody>
       </table>
+    </div>
+  
+
+      <!--
+	  if (confirm("Sign Up")==true) 
+	  location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/SignUp/signup.html";
+	-->
+</body></html>
+
+
 		
 		
