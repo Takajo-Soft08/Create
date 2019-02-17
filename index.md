@@ -20,6 +20,7 @@ function click(){
         else if(document.form1.field2.value!="password"){
             flagERROR=1;
         }
+	
 	if(flagNULL){
 	window.alert('User_ID、またはPasswordは必ず記入してください。');
 	}
@@ -50,7 +51,7 @@ function click(){
     
     <hr>
    <div align="center">
-    <form name="form1" action="">
+    <form name="form1">
 	    <p>User_ID :
 	    <input name="field1" type="text" value=""></p>
 	    <p>Password:
