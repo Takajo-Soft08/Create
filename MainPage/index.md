@@ -102,6 +102,21 @@
 	      これまでに貸借した本の一覧になります。
 	    </th>
 	  </tr>
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="パスワード変更" onclick="rend1()">
+	      </div>
+	      <script>
+		function rend1(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Password/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      パスワードの変更を行います。
+	    </th>
+	  </tr>
 	  
         </tbody>
       </table>
