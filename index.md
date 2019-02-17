@@ -50,12 +50,12 @@ function click(){
     
     <hr>
    <div align="center">
-    <form method="POST" name="form1" action="" onSubmit="return check()">
+    <form name="form1" action="">
 	    <p>User_ID :
 	    <input name="field1" type="text" value=""></p>
 	    <p>Password:
 	    <input name="field2" type="password" value=""></p>
-	    <p><input type="submit" value="Enter"></p>
+	    <p><input type="button" value="Enter" onClick="click()"></p>
 	</form>
 	</div>
   </body>
