@@ -26,7 +26,8 @@ function click(){
 	else if(flagERROR){
 	window.alert('User_ID、またはPasswordが間違っています。');
 	}
-	else{
+	else{ location.href = "https://takajo-soft08.github.io/Create/MainPage/";}
+	-->
 	  </script>
   </head>
 
@@ -42,18 +43,18 @@ function click(){
 	
     <script>
       function Subsclibe(){
-      -soft08.github.io/Create/SignUp/";      
+       location.href = "https://takajo-soft08.github.io/Create/SignUp/";      
       }
     </script>
     
     <hr>
    <div align="center">
-    <form name="form1" id="id_form1" action="">
-	    User_ID :
-	    <input name="textBox1" id="id_textBox1" type="text" value="" /><br>
-	    Password:
-	    <input name="textBox2" id="id_textBox2" type="text" value="" /><br>
-	    <input type="button" value="Enter" onClick="onButtonClick();"/>
+    <form method="POST" name="form1" action="" onSubmit="return check()">
+	    <p>User_ID :
+	    <input name="field1" type="text" value=""></p>
+	    <p>Password:
+	    <input name="field2" type="password" value=""></p>
+	    <p><input type="submit" value="Enter"></p>
 	</form>
 	<div id="output1"></div>
 	<div id="output2"></div>
