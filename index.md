@@ -56,8 +56,6 @@ function click(){
 	    <input name="field2" type="password" value=""></p>
 	    <p><input type="submit" value="Enter"></p>
 	</form>
-	<div id="output1"></div>
-	<div id="output2"></div>
 	</div>
   </body>
 </html>
