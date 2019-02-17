@@ -52,7 +52,7 @@
               <input type="submit" value="Enter" onClick="verify()">
 	      <script>
 		function verify(){
-		location.href = "https://takajo-soft08.github.io/Create/SignUp/SignUpVerify/";
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Password/PasswordSucceed/";
 		}
 	      </script>
             </td>
