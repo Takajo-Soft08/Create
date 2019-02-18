@@ -118,8 +118,15 @@
 	      パスワードの変更を行います。
 	    </th>
 	  </tr>
-	  <hr width="50%">
-	  <tr>
+	  </tbody>
+      </table>
+    </div>
+    <hr width="50%">
+    <div align="center">
+      <table border="0">
+        <form action="list.html" method="get"></form>
+        <tbody>
+	<tr>
             <td>
 	      <div align="center">
 		<input type="submit" value="図書登録処理" onclick="subscribe()">
