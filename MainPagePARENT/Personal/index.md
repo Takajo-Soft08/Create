@@ -22,35 +22,24 @@
         <form action="list.html" method="get"></form>
         <tbody>
 	  <tr>            
-	  <th> User_ID </th>
-            <th> 貸出状況 </th>
+	  <th> ユーザーID </th>
+            <th> ユーザー名 </th>
           </tr>
 	  <tr>
-            <th> 日々是好日のススメ </th>
-            <th> 貸出可 </th>
+            <th> i15sasaki </th>
+            <th> 佐々木佑都 </th>
           </tr>
 	  <tr>
-            <th> セッション!! </th>
-            <th> 貸出可 </th>
+            <th> i15tokita </th>
+            <th> 時田里絵 </th>
           </tr>
 	  <tr>
-            <th> Butterfly_Effect_Boys </th>
-            <th> 予約申込み </th>
+            <th> i15watanabe </th>
+            <th> 渡辺庄平 </th>
           </tr>
 	  <tr>
-            <th> 風と林と火と山とともに去りぬ </th>
-            <th> 貸出中 </th>
-          </tr>
-          <tr>
-            <th> ライ麦畑で落ち穂拾い </th>
-            <th> 貸出中 </th>
-          </tr>
-          <tr>
-            <th> <th> 貸出中 </th>
-          </tr>
-          <tr>
-            <th> 拝啓、150歳のATM </th>
-            <th> 貸出中 </th>
+            <th> i16gouda </th>
+            <th> 合田相三朗 </th>
           </tr>
         </tbody>
       </table>
