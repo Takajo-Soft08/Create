@@ -105,10 +105,10 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="パスワード変更" onclick="rend1()">
+		<input type="submit" value="パスワード変更" onclick="rend1w()">
 	      </div>
 	      <script>
-		function rend1(){
+		function rend1w(){
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/Password/";      
 		}
 	      </script>     
