@@ -121,11 +121,11 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="登録者一覧" onclick="listin1()">
+		<input type="submit" value="登録者一覧" onclick="personal()">
 	      </div>
 	      <script>
-		function listin1(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";
+		function personal(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/Personal/";
 		}
 	      </script>     
             </td>
