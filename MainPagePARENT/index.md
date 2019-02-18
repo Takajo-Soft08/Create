@@ -149,6 +149,21 @@
 	      図書の削除処理を行います。
 	    </th>
 	  </tr>
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="貸出バーコード発行" onclick="publication()">
+	      </div>
+	      <script>
+		function publication(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      図書の貸出時に使用する、栞状の貸出バーコードの発行処理を行います。
+	    </th>
+	  </tr>
         </tbody>
       </table>
     </div>
