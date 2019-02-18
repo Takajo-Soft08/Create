@@ -137,10 +137,10 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="図書削除処理" onclick="delete()">
+		<input type="submit" value="図書削除処理" onclick="del()">
 	      </div>
 	      <script>
-		function delete(){
+		function del(){
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/Return/";      
 		}
 	      </script>     
