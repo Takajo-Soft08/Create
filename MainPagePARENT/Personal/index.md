@@ -46,7 +46,7 @@
     </div>
     <p></p>
     <div align="center">
-      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
+      <a href="https://takajo-soft08.github.io/Create/MainPagePARENT/">_Back_To_Home_</a>
     </div>
 
   
