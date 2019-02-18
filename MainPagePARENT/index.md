@@ -131,10 +131,10 @@
     <br>
     <br>
     <br>
-    <input type="submit" value="MainPagePARENT" onclick="ren()">
+    <input type="submit" value="Ver.CHILD" onclick="ren()">
 	      <script>
 		function ren(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/";      
 		}
 	      </script>    
 </body></html>
