@@ -118,14 +118,7 @@
 	      パスワードの変更を行います。
 	    </th>
 	  </tr>
-	  </tbody>
-      </table>
-    </div>
-    <hr width="50%">
-    <div align="center">
-      <table border="0">
-        <form action="list.html" method="get"></form>
-        <tbody>
+	 
 	<tr>
             <td>
 	      <div align="center">
