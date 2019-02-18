@@ -6,7 +6,7 @@
 
   <body>
     <div align="center">
-      <h1>Main_Page_PARENT_VERSION (Book Management)</h1>
+      <h1>Main_Page (Book Management)</h1>
     </div>
     
     <div align="right">
