@@ -5,7 +5,7 @@
 
   <body>
     <div align="center">
-      <h1>登録図書一覧画面</h1>
+      <h1>登録者一覧画面</h1>
     </div>
     <div align="right">
       <input type="submit" value="ログアウト" onclick="logOut()">
