@@ -21,8 +21,8 @@
       <table border="1">
         <form action="list.html" method="get"></form>
         <tbody>
-	  <tr>
-            <th> 題名 </th>
+	  <tr>            
+	  <th> User_ID </th>
             <th> 貸出状況 </th>
           </tr>
 	  <tr>
@@ -46,4 +46,22 @@
             <th> 貸出中 </th>
           </tr>
           <tr>
-            <th> 
+            <th> <th> 貸出中 </th>
+          </tr>
+          <tr>
+            <th> 拝啓、150歳のATM </th>
+            <th> 貸出中 </th>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p></p>
+    <div align="center">
+      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
+    </div>
+
+  
+
+
+</body></html>
+
