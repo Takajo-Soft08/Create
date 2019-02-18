@@ -126,7 +126,7 @@
 	      </div>
 	      <script>
 		function subscribe(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPage/Password/";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Lend/";      
 		}
 	      </script>     
             </td>
@@ -134,7 +134,21 @@
 	      図書の登録処理を行います。
 	    </th>
 	  </tr>
-	  
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="図書削除処理" onclick="delete()">
+	      </div>
+	      <script>
+		function delete(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Return/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      図書の削除処理を行います。
+	    </th>
+	  </tr>
         </tbody>
       </table>
     </div>
