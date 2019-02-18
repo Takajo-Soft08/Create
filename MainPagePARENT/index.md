@@ -118,6 +118,22 @@
 	      パスワードの変更を行います。
 	    </th>
 	  </tr>
+	  <hr width="50%">
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="図書登録処理" onclick="subscribe()">
+	      </div>
+	      <script>
+		function subscribe(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/Password/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      図書の登録処理を行います。
+	    </th>
+	  </tr>
 	  
         </tbody>
       </table>
