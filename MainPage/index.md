@@ -124,5 +124,12 @@
      <div align="right">
       <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
     </div>
+    <p></p><p></p><p></p><p></p><p></p><p></p>
+    <input type="submit" value="MainPagePARENT" onclick="ren()">
+	      <script>
+		function ren(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/";      
+		}
+	      </script>     
 </body></html>
 
