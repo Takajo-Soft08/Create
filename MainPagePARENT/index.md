@@ -122,12 +122,9 @@
         </tbody>
       </table>
     </div>
-  
-
-      <!--
-	  if (confirm("Sign Up")==true) 
-	  location.href = "file:///Network/Servers/iemac.ie.tokuyama.ac.jp/Volumes/Users/15/i15kasibe/_CreativePractice_/SignUp/signup.html";
-	-->
+    <div align="right">
+      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
+    </div>
 </body></html>
 
 
