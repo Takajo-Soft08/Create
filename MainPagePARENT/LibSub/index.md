@@ -5,7 +5,7 @@
     <!--
             //指定のページに移動
     function loc() {
-location.href = "https://takajo-soft08.github.io/Create/MainPage/Lend/LendSucceed/";
+location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/LibSub/LibSubSucceed/";
     }
             //タイマーをセット
     function tm(){
