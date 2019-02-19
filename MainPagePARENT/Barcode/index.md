@@ -32,7 +32,7 @@
       <input type="submit" value="Enter" onClick="success()">
       <script>
 	function success(){
-	location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/Barcode/BarcodeSucceed/";
+	location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/Barcord/BarcodeSucceed/";
 	}
       </script>
     </div>
