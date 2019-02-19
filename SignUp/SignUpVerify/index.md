@@ -34,7 +34,7 @@
               New_Password:
             </th>
             <th>
-              Chikaku_No_Sobaya
+              　•••••••••
             </th>
           </tr>
         </tbody>
