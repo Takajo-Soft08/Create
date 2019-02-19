@@ -44,7 +44,7 @@
               バーコード
             </th>
             <th>
-              
+              <img src="" alt="BarCodeID">
             </th>          
           </tr>
         </tbody>
