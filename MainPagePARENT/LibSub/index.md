@@ -17,7 +17,7 @@ location.href = "https://takajo-soft08.github.io/Create/MainPage/Lend/LendSuccee
 
   <body onLoad="tm()">
     <div align="center">
-      <h1>貸出処理画面</h1>
+      <h1>図書登録処理画面</h1>
     </div>  
     <div align="right">
       <input type="submit" value="ログアウト" onclick="logOut()">
@@ -30,7 +30,7 @@ location.href = "https://takajo-soft08.github.io/Create/MainPage/Lend/LendSuccee
     <hr>
     
     <div align="center">
-      <p>USBポートにバーコードリーダーを接続し、登録図書IDバーコードを読み取ってください</p>
+      <p>USBポートにバーコードリーダーを接続し、登録したいISBN[DoI]コードを読み取ってください</p>
 <!--
 <form action="#" name="form1">
 <input type="text" name="field1" size="8"> パターン1<br>
