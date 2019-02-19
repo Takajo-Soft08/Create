@@ -171,7 +171,7 @@
 	      </div>
 	      <script>
 		function publication(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPage/List/";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/Barcode/";      
 		}
 	      </script>     
             </td>
@@ -183,7 +183,7 @@
       </table>
     </div>
     <div align="right">
-      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
+      <a href="https://takajo-soft08.github.io/Create/MainPagePARENT/">_Back_To_Home_</a>
     </div>
     <br>
     <br>
