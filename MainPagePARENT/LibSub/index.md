@@ -42,9 +42,4 @@ location.href = "https://takajo-soft08.github.io/Create/MainPage/Lend/LendSuccee
     <div align="right">
       <a href="https://takajo-soft08.github.io/Create/MainPagePARENT/">_Back_To_Home_</a>
     </div>
-
-  
-
-
-
 </body></html>
