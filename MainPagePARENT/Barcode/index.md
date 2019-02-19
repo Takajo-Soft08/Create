@@ -19,15 +19,12 @@
     <hr>
     <div style="position:relative; left:450px;">
       <form>
-	<input type="checkbox" id="ds" name="dscheck">風と林と火と山とともに去りぬ<br>
-	<input type="checkbox" id="ps3" name="ps3check">ライ麦畑で落ち穂拾い<br>
-	<input type="checkbox" id="wii" name="wiicheck">拝啓、150歳のATM<br>
-	<input type="checkbox" id="ds" name="dscheck">風と林と火と山とともに去りぬ<br>
-	<input type="checkbox" id="ps3" name="ps3check">ライ麦畑で落ち穂拾い<br>
-	<input type="checkbox" id="wii" name="wiicheck">拝啓、150歳のATM<br>
-	<input type="checkbox" id="ds" name="dscheck">風と林と火と山とともに去りぬ<br>
-	<input type="checkbox" id="ps3" name="ps3check">ライ麦畑で落ち穂拾い<br>
-	<input type="checkbox" id="wii" name="wiicheck">拝啓、150歳のATM<br>
+	<input type="checkbox" id="ds" name="dscheck">日々是好日のススメ<br>
+	<input type="checkbox" id="ps3" name="ps3check">セッション!!<br>
+	<input type="checkbox" id="wii" name="wiicheck">Butterfly_Effect_Boys<br>
+	<input type="checkbox" id="ds" name="1dscheck">風と林と火と山とともに去りぬ<br>
+	<input type="checkbox" id="ps3" name="1ps3check">ライ麦畑で落ち穂拾い<br>
+	<input type="checkbox" id="wii" name="1wiicheck">拝啓、150歳のATM<br>
   </form>
     </div>
     
