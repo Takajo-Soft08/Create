@@ -5,7 +5,7 @@
     <!--
             //指定のページに移動
     function loc() {
-location.href = "https://takajo-soft08.github.io/Create/MainPage/Return/ReturnSucceed/";
+location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/LibDel/LibDelSucceed/";
     }
             //タイマーをセット
     function tm(){
@@ -17,7 +17,7 @@ location.href = "https://takajo-soft08.github.io/Create/MainPage/Return/ReturnSu
 
   <body onLoad="tm()">
     <div align="center">
-      <h1>返却処理画面</h1>
+      <h1>図書削除処理画面</h1>
     </div>  
     <div align="right">
       <input type="submit" value="ログアウト" onclick="logOut()">
@@ -40,7 +40,7 @@ location.href = "https://takajo-soft08.github.io/Create/MainPage/Return/ReturnSu
     </div>
     
     <div align="right">
-      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
+      <a href="https://takajo-soft08.github.io/Create/MainPagePARENT/">_Back_To_Home_</a>
     </div>
 
   
