@@ -141,7 +141,7 @@
 	      </div>
 	      <script>
 		function subscribe(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/LibSub()/";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/LibSub/";      
 		}
 	      </script>     
             </td>
@@ -156,7 +156,7 @@
 	      </div>
 	      <script>
 		function del(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/Libd/";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/LibDel/";      
 		}
 	      </script>     
             </td>
