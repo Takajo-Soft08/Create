@@ -33,9 +33,7 @@
             <th>
               New_Password:
             </th>
-            <th>
-              　•••••••••
-            </th>
+            <th> ••••••••• </th>
           </tr>
         </tbody>
       </table>
