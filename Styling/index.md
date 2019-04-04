@@ -45,7 +45,7 @@
 	        font-weight: bold;
 		background-color: #248;
 	        color: #fff;
-	        padding: 10px 30px;
+	        <!--padding: 10px 30px;-->
 	        border-style: none;
 	        -moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
