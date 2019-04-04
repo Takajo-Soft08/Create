@@ -39,6 +39,8 @@
 	////////////////////////////////////////////////// -->
     	<style>
 	    input{
+	        height: 40px;
+	        width: 100px;
 	        font-size: 1.4em;
 	        font-weight: bold;
 		background-color: #248;
