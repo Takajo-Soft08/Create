@@ -3,7 +3,7 @@
     <title>MainPage (Book Management)</title>
     <!-- /////////////////////////////////////////////////
     	<style>
-	    // inputは、< >内の先頭の英単語を打ち込んだもの (他にh1,body,divなどもある)
+	    /////// inputは、< >内の先頭の英単語を打ち込んだもの (他にh1,body,divなどもある) /////////////
 	    input{
 		  // 文字のサイズ
 	        font-size: 1.4em;
@@ -13,20 +13,45 @@
 		background-color: #248;
 		  // 文字の色
 	        color: #fff;
-
+		  // 余白(縦方向に10px、横方向に30pxの余白)
+	        padding: 10px 30px;
+		  // フチなし
+	        border-style: none;
+		  // 角丸にする
+	        -moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+	    }
+	    ///////// onMouse時の変化 //////////////////////////////////////////////////////////
+	    input:hover{
+		  // 背景色
+		background-color: #24d;
+		  // 文字の色
+	        color: #fff;
+		  // 透明度
+	        opacity: 0.8;
 	    }
     	</style>
 	////////////////////////////////////////////////// -->
-    <style>
-	input{
-	  font-size: 1.4em;
-	  font-weight: bold;
-	  background-color: #248;
-	  color: #fff;
-	}	
-    </style>
-  </head>
-
+    	<style>
+	    input{
+	        font-size: 1.4em;
+	        font-weight: bold;
+		background-color: #248;
+	        color: #fff;
+	        padding: 10px 30px;
+	        border-style: none;
+	        -moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+	    }
+	    input:hover{
+		background-color: #24d;
+	        color: #fff;
+	        opacity: 0.8;
+	    }
+    	</style>
+	</head>
   <body>
     <div align="center">
       <h1>Main_Page (Book Management)</h1>
