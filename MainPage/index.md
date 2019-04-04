@@ -1,14 +1,6 @@
 <html><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>MainPage (Book Management)</title>
-    <style>
-	input{
-	  font-size: 1.4em;
-	  font-weight: bold;
-	  background-color: #248;
-	  color: #fff;
-	}	
-    </style>
   </head>
 
   <body>
