@@ -1,6 +1,30 @@
 <html><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>MainPage (Book Management)</title>
+    <!-- /////////////////////////////////////////////////
+    	<style>
+	    // inputは、< >内の先頭の英単語を打ち込んだもの (他にh1,body,divなどもある)
+	    input{
+		  // 文字のサイズ
+	        font-size: 1.4em;
+		  // 文字のフォント
+	        font-weight: bold;
+		  // 背景色
+		background-color: #248;
+		  // 文字の色
+	        color: #fff;
+
+	    }
+    	</style>
+	////////////////////////////////////////////////// -->
+    <style>
+	input{
+	  font-size: 1.4em;
+	  font-weight: bold;
+	  background-color: #248;
+	  color: #fff;
+	}	
+    </style>
   </head>
 
   <body>
