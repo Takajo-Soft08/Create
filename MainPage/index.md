@@ -1,10 +1,17 @@
 <html><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>MainPage (Book Management)</title>
+    <style>
+	input{
+	  font-size: 1.4em;
+	  font-weight: bold;
+	  background-color: #248;
+	  color: #fff;
+	}	
+    </style>
   </head>
 
   <body>
-    <link rel="stylesheet" type="text/css" href="All.css">
     <div align="center">
       <h1>Main_Page (Book Management)</h1>
     </div>
