@@ -4,6 +4,7 @@
   </head>
 
   <body>
+    <link rel="stylesheet" type="text/css" href="All.css">
     <div align="center">
       <h1>Main_Page (Book Management)</h1>
     </div>
