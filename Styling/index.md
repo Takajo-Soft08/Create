@@ -41,7 +41,7 @@
 	    input{
 	        height: 40px;
 	        width: 100px;
-	        font-size: 0.2em;
+	        font-size: 0.7em;
 	        font-weight: bold;
 		background-color: #248;
 	        color: #fff;
