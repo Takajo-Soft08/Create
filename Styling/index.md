@@ -175,12 +175,8 @@
         </tbody>
       </table>
     </div>
-	  
 	  <!-- ///////////////////////////////////////////////////////////////////////////////////////// -->
-      <div onclick="obj=document.getElementById('open1').style; obj.display=(obj.display=='none')?'block':'none';">
-      <a style="cursor: pointer;">親画面を展開する</a></div>
-      
-    <div align="center"　id="open1" style="display:none;clear:both;">
+    <div align="center">
       <table border="0">
         <form action="list.html" method="get"></form>
         <tbody>
