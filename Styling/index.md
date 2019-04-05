@@ -77,8 +77,7 @@
     <div align="center">
       <table border="0">
         <form action="list.html" method="get"></form>
-        <tbody>
-	  
+        <tbody>	  
 	  <tr>
             <td>
 	      <div align="center">
@@ -173,13 +172,15 @@
 	      パスワードの変更を行います。
 	    </th>
 	  </tr>
+        </tbody>
+      </table>
+    </div>
 	  
 	  <!-- ///////////////////////////////////////////////////////////////////////////////////////// -->
-	<div class="hidden_box">
- 	<label for="label1">クリックして表示</label>
-	    <input type="checkbox" id="label1"/>
-    	<div class="hidden_show">
-      	<!--非表示ここから-->     
+    <div align="center">
+      <table border="0">
+        <form action="list.html" method="get"></form>
+        <tbody>
 	<tr>
             <td>
 	      <div align="center">
@@ -243,11 +244,6 @@
 	      栞状の貸出バーコードの発行処理を行います。
 	    </th>
 	  </tr>	 
-	  <!--ここまで-->
-   	 </div>
-	</div>
-
-	  </div>
 	  <!-- ///////////////////////////////////////////////////////////////////////////////////////// -->
         </tbody>
       </table>
