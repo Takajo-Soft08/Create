@@ -175,8 +175,12 @@
 	  </tr>
 	  
 	  <!-- ///////////////////////////////////////////////////////////////////////////////////////// -->
-	  <div id="menu1" style="display:none;clear:both;">
-	  <tr>
+	<div class="hidden_box">
+ 	<label for="label1">クリックして表示</label>
+	    <input type="checkbox" id="label1"/>
+    	<div class="hidden_show">
+      	<!--非表示ここから-->     
+	<tr>
             <td>
 	      <div align="center">
 		<input type="submit" value="登録者一覧" onclick="personal()">
@@ -238,7 +242,11 @@
 	    <th>
 	      栞状の貸出バーコードの発行処理を行います。
 	    </th>
-	  </tr>	  
+	  </tr>	 
+	  <!--ここまで-->
+   	 </div>
+	</div>
+
 	  </div>
 	  <!-- ///////////////////////////////////////////////////////////////////////////////////////// -->
         </tbody>
@@ -259,9 +267,6 @@
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/";      
 		}
 	      </script>
-     <div onclick="obj=document.getElementById('menu1').style; obj.display=(obj.display=='none')?'block':'none';">
-     	<a style="cursor:pointer;">クリックで親画面</a>
-     </div>
 </body></html>
 
 
