@@ -40,7 +40,7 @@
     	<style>
 	    input{
 	        height: 40px;
-	        width: 100px;
+	        width: 150px;
 	        font-size: 0.7em;
 	        font-weight: bold;
 		background-color: #248;
