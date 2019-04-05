@@ -3,6 +3,7 @@
     <title>MainPage (Book Management)</title>
     <!-- /////////////////////////////////////////////////
     	<style>
+
 	    body{
 		background-color: #e0ffff;
 	    }
@@ -43,6 +44,9 @@
     	<style>
 	    body{
 		background-color: #e0ffff;
+	    }
+	    h1{
+	    	font-family: "cursive",cursive;
 	    }
 	    input{
 	        height: 50px;
