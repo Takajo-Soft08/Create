@@ -57,7 +57,8 @@
 	        opacity: 0.8;
 	    }
     	</style>
-	</head>
+  </head>
+
   <body>
     <div align="center">
       <h1>Main_Page (Book Management)</h1>
@@ -172,12 +173,72 @@
 	      パスワードの変更を行います。
 	    </th>
 	  </tr>
-	  
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="登録者一覧" onclick="personal()">
+	      </div>
+	      <script>
+		function personal(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/Personal/";
+		}
+	      </script>     
+            </td>
+	    <th>
+	      登録されている図書被貸与者の一覧になります。
+	    </th>
+	  </tr>
+	 
+	<tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="図書登録処理" onclick="subscribe()">
+	      </div>
+	      <script>
+		function subscribe(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/LibSub/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      図書の登録処理を行います。
+	    </th>
+	  </tr>
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="図書削除処理" onclick="del()">
+	      </div>
+	      <script>
+		function del(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/LibDel/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      図書の削除処理を行います。
+	    </th>
+	  </tr>
+	  <tr>
+            <td>
+	      <div align="center">
+		<input type="submit" value="貸出バーコード発行" onclick="publication()">
+	      </div>
+	      <script>
+		function publication(){
+		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/Barcode/";      
+		}
+	      </script>     
+            </td>
+	    <th>
+	      栞状の貸出バーコードの発行処理を行います。
+	    </th>
+	  </tr>
         </tbody>
       </table>
     </div>
-     <div align="right">
-      <a href="https://takajo-soft08.github.io/Create/MainPage/">_Back_To_Home_</a>
+    <div align="right">
+      <a href="https://takajo-soft08.github.io/Create/MainPagePARENT/">_Back_To_Home_</a>
     </div>
     <br>
     <br>
@@ -185,10 +246,15 @@
     <br>
     <br>
     <br>
-    <input type="submit" value="MainPagePARENT" onclick="ren()">
+    <input type="submit" value="Ver.CHILD" onclick="ren()">
 	      <script>
 		function ren(){
-		location.href = "https://takajo-soft08.github.io/Create/MainPagePARENT/";      
+		location.href = "https://takajo-soft08.github.io/Create/MainPage/";      
 		}
-	      </script>     
+	      </script>    
 </body></html>
+
+
+		
+		
+
