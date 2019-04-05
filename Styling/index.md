@@ -41,6 +41,9 @@
     	</style>
 	////////////////////////////////////////////////// -->
     	<style>
+	    body{
+		background-color: #ddf;
+	    }
 	    input{
 	        height: 50px;
 	        width: 170px;
