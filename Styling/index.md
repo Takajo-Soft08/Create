@@ -177,6 +177,9 @@
     </div>
 	  
 	  <!-- ///////////////////////////////////////////////////////////////////////////////////////// -->
+      <div onclick="obj=document.getElementById('open1').style; obj.display=(obj.display=='none')?'block':'none';">
+      <a style="cursor: pointer;">親画面を展開する</a>
+      </div>
     <div align="center"　id="open1" style="display:none;clear:both;">
       <table border="0">
         <form action="list.html" method="get"></form>
@@ -263,9 +266,6 @@
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/";      
 		}
 	      </script>
-      <div onclick="obj=document.getElementById('open1').style; obj.display=(obj.display=='none')?'block':'none';">
-      <a style="cursor: pointer;">親画面を展開する</a>
-      </div>
 </body></html>
 
 
