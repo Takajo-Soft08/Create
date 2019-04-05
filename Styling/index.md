@@ -173,6 +173,9 @@
 	      パスワードの変更を行います。
 	    </th>
 	  </tr>
+	  
+	  <!-- ///////////////////////////////////////////////////////////////////////////////////////// -->
+	  <div id="menu1" style="display:none;clear:both;">
 	  <tr>
             <td>
 	      <div align="center">
@@ -188,8 +191,8 @@
 	      登録されている図書被貸与者の一覧になります。
 	    </th>
 	  </tr>
-	 
-	<tr>
+	  
+	  <tr>
             <td>
 	      <div align="center">
 		<input type="submit" value="図書登録処理" onclick="subscribe()">
@@ -204,6 +207,7 @@
 	      図書の登録処理を行います。
 	    </th>
 	  </tr>
+	  
 	  <tr>
             <td>
 	      <div align="center">
@@ -219,6 +223,7 @@
 	      図書の削除処理を行います。
 	    </th>
 	  </tr>
+	  
 	  <tr>
             <td>
 	      <div align="center">
@@ -233,7 +238,9 @@
 	    <th>
 	      栞状の貸出バーコードの発行処理を行います。
 	    </th>
-	  </tr>
+	  </tr>	  
+	  </div>
+	  <!-- ///////////////////////////////////////////////////////////////////////////////////////// -->
         </tbody>
       </table>
     </div>
@@ -251,7 +258,10 @@
 		function ren(){
 		location.href = "https://takajo-soft08.github.io/Create/MainPage/";      
 		}
-	      </script>    
+	      </script>
+     <div onclick="obj=document.getElementById('menu1').style; obj.display=(obj.display=='none')?'block':'none';">
+     	<a style="cursor:pointer;">クリックで親画面</a>
+     </div>
 </body></html>
 
 
