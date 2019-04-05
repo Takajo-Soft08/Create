@@ -8,7 +8,7 @@
 		  // ボタンの高さ
 	        height: 40px;
 		  // ボタンの幅
-	        width: 100px;
+	        width: 150px;
 		  // 文字のサイズ
 	        font-size: 0.2em;
 		  // 文字のフォント
