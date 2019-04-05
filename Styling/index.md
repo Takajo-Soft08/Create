@@ -4,7 +4,8 @@
     <!-- /////////////////////////////////////////////////
     	<style>
 	    body{
-		background-color: #04f;
+		background-color: #9f9;
+	        opacity: 0.6;
 	    }
 	    /////// inputは、< >内の先頭の英単語を打ち込んだもの (他にh1,body,divなどもある) /////////////
 	    input{
@@ -42,7 +43,8 @@
 	////////////////////////////////////////////////// -->
     	<style>
 	    body{
-		background-color: #04f;
+		background-color: #9f9;
+	        opacity: 0.6;
 	    }
 	    input{
 	        height: 50px;
