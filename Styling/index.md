@@ -6,11 +6,11 @@
 	    /////// inputは、< >内の先頭の英単語を打ち込んだもの (他にh1,body,divなどもある) /////////////
 	    input{
 		  // ボタンの高さ
-	        height: 40px;
+	        height: 50px;
 		  // ボタンの幅
-	        width: 150px;
+	        width: 170px;
 		  // 文字のサイズ
-	        font-size: 0.2em;
+	        font-size: 1.0em;
 		  // 文字のフォント
 	        font-weight: bold;
 		  // 背景色
@@ -39,9 +39,9 @@
 	////////////////////////////////////////////////// -->
     	<style>
 	    input{
-	        height: 40px;
-	        width: 150px;
-	        font-size: 0.7em;
+	        height: 50px;
+	        width: 170px;
+	        font-size: 1.0em;
 	        font-weight: bold;
 		background-color: #248;
 	        color: #fff;
