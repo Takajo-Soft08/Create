@@ -36,6 +36,7 @@
 		background-color: #24d;
 		  // 文字の色
 	        color: #fff;
+		
 		  // 透明度
 	        opacity: 0.8;
 	    }
