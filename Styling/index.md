@@ -3,7 +3,6 @@
     <title>MainPage (Book Management)</title>
     <!-- /////////////////////////////////////////////////
     	<style>
-
 	    body{
 		background-color: #e0ffff;
 	    }
@@ -46,7 +45,7 @@
 	        font-weight: bold;
 		background-color: #ffa500;
 	        color: #fff;
-	        <!--padding: 10px 30px;-->
+	        //padding: 10px 30px;
 	        border-style: none;
 	        -moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
@@ -59,7 +58,6 @@
 	    }
     	</style>
 	////////////////////////////////////////////////// -->
-	
     	<style>
 	    body{
 		background-color: #e0ffff;
