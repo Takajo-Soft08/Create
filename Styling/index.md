@@ -38,8 +38,7 @@
 	        color: #fff;
 		  // 透明度
 	        opacity: 0.8;
-	    }
-	    
+	    }	    
 	    input.parent{
 	        height: 50px;
 	        width: 170px;
@@ -60,6 +59,7 @@
 	    }
     	</style>
 	////////////////////////////////////////////////// -->
+	
     	<style>
 	    body{
 		background-color: #e0ffff;
@@ -82,6 +82,24 @@
 	    }
 	    input.general:hover{
 		background-color: #24d;
+	        color: #fff;
+	        opacity: 0.8;
+	    }
+	    input.parent{
+	        height: 50px;
+	        width: 170px;
+	        font-size: 1.0em;
+	        font-weight: bold;
+		background-color: #ffa500;
+	        color: #fff;
+	        <!--padding: 10px 30px;-->
+	        border-style: none;
+	        -moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+	    }
+	    input.parent:hover{
+		background-color: #ffd700;
 	        color: #fff;
 	        opacity: 0.8;
 	    }
