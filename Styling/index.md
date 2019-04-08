@@ -8,7 +8,7 @@
 		background-color: #e0ffff;
 	    }
 	    /////// inputは、< >内の先頭の英単語を打ち込んだもの (他にh1,body,divなどもある) /////////////
-	    input{
+	    input.general{
 		  // ボタンの高さ
 	        height: 50px;
 		  // ボタンの幅
@@ -31,13 +31,31 @@
 		border-radius: 5px;
 	    }
 	    ///////// onMouse時の変化 //////////////////////////////////////////////////////////
-	    input:hover{
+	    input.general:hover{
 		  // 背景色
 		background-color: #24d;
 		  // 文字の色
 	        color: #fff;
-		
 		  // 透明度
+	        opacity: 0.8;
+	    }
+	    
+	    input.parent{
+	        height: 50px;
+	        width: 170px;
+	        font-size: 1.0em;
+	        font-weight: bold;
+		background-color: #ffa500;
+	        color: #fff;
+	        <!--padding: 10px 30px;-->
+	        border-style: none;
+	        -moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+	    }
+	    input.parent:hover{
+		background-color: #ffd700;
+	        color: #fff;
 	        opacity: 0.8;
 	    }
     	</style>
@@ -49,7 +67,7 @@
 	    h1{
 	    	font-family: "cursive",cursive;
 	    }
-	    input{
+	    input.general{
 	        height: 50px;
 	        width: 170px;
 	        font-size: 1.0em;
@@ -62,7 +80,7 @@
 		-webkit-border-radius: 5px;
 		border-radius: 5px;
 	    }
-	    input:hover{
+	    input.general:hover{
 		background-color: #24d;
 	        color: #fff;
 	        opacity: 0.8;
@@ -92,7 +110,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="貸出処理" onclick="rend()">
+		<input class="general" type="submit" value="貸出処理" onclick="rend()">
 	      </div>
 	      <script>
 		function rend(){
@@ -108,7 +126,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="返却処理" onclick="rend1()">
+		<input class="general" type="submit" value="返却処理" onclick="rend1()">
 	      </div>
 	      <script>
 		function rend1(){
@@ -124,7 +142,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="予約処理" onclick="booking()">
+		<input class="general" type="submit" value="予約処理" onclick="booking()">
 	      </div>
 	      <script>
 		function booking(){
@@ -140,7 +158,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="登録図書一覧" onclick="list1()">
+		<input class="general" type="submit" value="登録図書一覧" onclick="list1()">
 	      </div>
 	      <script>
 		function list1(){
@@ -156,7 +174,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="貸借履歴" onclick="record()">
+		<input class="general" type="submit" value="貸借履歴" onclick="record()">
 	      </div>
 	      <script>
 		function record(){
@@ -171,7 +189,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="パスワード変更" onclick="rend1w()">
+		<input class="general" type="submit" value="パスワード変更" onclick="rend1w()">
 	      </div>
 	      <script>
 		function rend1w(){
@@ -194,7 +212,7 @@
 	<tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="登録者一覧" onclick="personal()">
+		<input class="parent" type="submit" value="登録者一覧" onclick="personal()">
 	      </div>
 	      <script>
 		function personal(){
@@ -210,7 +228,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="図書登録処理" onclick="subscribe()">
+		<input class="parent" type="submit" value="図書登録処理" onclick="subscribe()">
 	      </div>
 	      <script>
 		function subscribe(){
@@ -226,7 +244,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="図書削除処理" onclick="del()">
+		<input class="parent" type="submit" value="図書削除処理" onclick="del()">
 	      </div>
 	      <script>
 		function del(){
@@ -242,7 +260,7 @@
 	  <tr>
             <td>
 	      <div align="center">
-		<input type="submit" value="貸出バーコード発行" onclick="publication()">
+		<input class="parent" type="submit" value="貸出バーコード発行" onclick="publication()">
 	      </div>
 	      <script>
 		function publication(){
